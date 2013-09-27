@@ -1,4 +1,4 @@
-elibms
+jelibms
 ======
 
-Electronic Library Management System
+Java Electronic Library Management System
